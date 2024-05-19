@@ -1,0 +1,101 @@
+2024-05-17 22:51:58.280 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-17 22:51:58.283 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-17 22:51:58.854 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=8, nome=Gustavo Rabelo Frere, email=gurabelo@gmail.com]
+2024-05-17 22:51:58.855 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=9, nome=Ana Souza, email=ana@example.com]
+2024-05-17 22:51:58.855 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=10, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-17 22:51:58.855 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=11, nome=Mariana Lima, email=mariana@example.com]
+2024-05-17 22:51:58.855 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=12, nome=Lucas Santos, email=lucas@example.com]
+2024-05-17 22:51:58.856 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=13, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-17 22:51:58.856 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=14, nome=Paulo Silva, email=paulo@example.com]
+2024-05-17 22:51:58.856 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=15, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-17 22:51:58.857 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=1, nome=Ana Souza, email=ana@example.com]
+2024-05-17 22:51:58.857 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=2, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-17 22:51:58.869 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=3, nome=Mariana Lima, email=mariana@example.com]
+2024-05-17 22:51:58.869 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=4, nome=Lucas Santos, email=lucas@example.com]
+2024-05-17 22:51:58.869 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=5, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-17 22:51:58.869 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=6, nome=Paulo Silva, email=paulo@example.com]
+2024-05-17 22:51:58.869 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=7, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:37:29.332 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-19 10:37:29.333 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-19 10:37:29.798 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=8, nome=Gustavo Rabelo Frere, email=gurabelo@gmail.com]
+2024-05-19 10:37:29.798 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=9, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:37:29.798 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=10, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:37:29.798 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=11, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:37:29.798 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=12, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:37:29.798 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=13, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:37:29.799 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=14, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:37:29.799 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=15, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:37:29.799 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=1, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:37:29.799 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=2, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:37:29.815 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=3, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:37:29.815 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=4, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:37:29.815 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=5, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:37:29.815 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=6, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:37:29.815 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=7, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:40:43.606 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-19 10:40:43.607 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-19 10:40:44.120 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=8, nome=Gustavo Rabelo Frere, email=gurabelo@gmail.com]
+2024-05-19 10:40:44.120 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=9, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:40:44.120 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=10, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:40:44.120 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=11, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:40:44.120 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=12, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:40:44.120 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=13, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:40:44.121 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=14, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:40:44.121 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=15, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:40:44.121 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=1, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:40:44.121 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=2, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:40:44.138 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=3, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:40:44.139 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=4, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:40:44.139 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=5, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:40:44.139 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=6, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:40:44.139 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=7, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:43:39.706 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-19 10:43:39.708 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=8, nome=Gustavo Rabelo Frere, email=gurabelo@gmail.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=9, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=10, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=11, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=12, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=13, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=14, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=15, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=1, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:43:40.183 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=2, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:43:40.199 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=3, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:43:40.199 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=4, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:43:40.200 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=5, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:43:40.200 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=6, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:43:40.200 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=7, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:48:18.036 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-19 10:48:18.037 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=8, nome=Gustavo Rabelo Frere, email=gurabelo@gmail.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=9, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=10, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=11, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=12, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=13, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=14, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=15, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=1, nome=Ana Souza, email=ana@example.com]
+2024-05-19 10:48:18.525 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=2, nome=Carlos Ferreira, email=carlos@example.com]
+2024-05-19 10:48:18.551 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=3, nome=Mariana Lima, email=mariana@example.com]
+2024-05-19 10:48:18.551 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=4, nome=Lucas Santos, email=lucas@example.com]
+2024-05-19 10:48:18.551 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=5, nome=Juliana Oliveira, email=juliana@example.com]
+2024-05-19 10:48:18.551 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=6, nome=Paulo Silva, email=paulo@example.com]
+2024-05-19 10:48:18.551 [main] INFO  fiap.tds.Main - Cliente [cd_cliente=7, nome=Fernanda Costa, email=fernanda@example.com]
+2024-05-19 10:50:32.063 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-19 10:50:32.064 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-19 10:54:41.985 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-05-19 10:54:41.986 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-05-19 11:05:33.752 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 11:53:59.388 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 12:01:47.552 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:12:13.635 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:12:47.331 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:15:58.215 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:18:40.646 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:21:57.951 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:28:07.425 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 15:58:43.452 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 16:08:55.186 [main] INFO  fiap.tds.Main - Iniciando aplicação
+2024-05-19 16:13:52.396 [main] INFO  fiap.tds.Main - Iniciando aplicação
